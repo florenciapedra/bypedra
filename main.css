@@ -1,0 +1,37 @@
+* {
+    Margin:0;
+    padding:0;
+}
+/* --- BODY --- */  
+body {
+    /* Personalicé color de fondo del body */   
+    background-color: #ffffff;
+
+    /* Se agregó un fondo a todo el body */    
+        background-image: url("assets/fondo.png");
+    }
+.navbar__section_div {
+}    
+    /* Personalicé fuente del título */
+    .inicioTitulo__section_div {
+        font-family: 'Roboto', serif;
+        font-size: 70px;
+        font-weight: bold;
+        letter-spacing: 4px;
+        text-align: center;
+        padding: 15px;
+    }
+    .inicioTituloMedio__section_div {
+        font-family: 'Roboto', serif;
+        font-size: 40px;
+        font-weight: 400;
+        letter-spacing: 4px;
+        text-align: center;
+        padding: 15px;        
+    }   
+.fuente {
+    font-style: normal;
+    font-family: 'Roboto', serif;
+    font-size: 16px;
+    text-align: center;
+}
